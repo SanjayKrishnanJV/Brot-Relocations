@@ -1,7 +1,7 @@
 /*----------------------------------------------------
 
-* Template : LogiSpeed - Transportaion Html Responsive Template
-* Author : LogiSpeed - Transportaion Html Responsive Template
+
+*  Author : Winnoventures  
 
 =====================================================================*/
 
@@ -449,8 +449,8 @@
     }
   }
 
-  if ($(".logispeed-details__services-list").length) {
-    dynamicCurrentMenuClass($(".logispeed-details__services-list"));
+  if ($(".brotrelocation-details__services-list").length) {
+    dynamicCurrentMenuClass($(".brotrelocation-details__services-list"));
   }
   if ($(".make-a-claim__claim-list").length) {
     dynamicCurrentMenuClass($(".make-a-claim__claim-list"));

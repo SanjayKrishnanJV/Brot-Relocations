@@ -1,7 +1,7 @@
 /*----------------------------------------------------
 
-* Template : LogiSpeed - Transportaion Html Responsive Template
-* Author : LogiSpeed - Transportaion Html Responsive Template
+
+*  Author : Winnoventures  
 
 =====================================================================*/
 
@@ -15775,9 +15775,9 @@ body.boxed-wrapper {
 }
 
 /*--------------------------------------------------------------
-# Get logispeed Three
+# Get brotrelocation Three
 --------------------------------------------------------------*/
-.get-logispeed-three {
+.get-brotrelocation-three {
   position: relative;
   display: block;
   background-color: #000;
@@ -15785,7 +15785,7 @@ body.boxed-wrapper {
   z-index: 1;
 }
 
-.get-logispeed-three__bg {
+.get-brotrelocation-three__bg {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -15798,13 +15798,13 @@ body.boxed-wrapper {
   z-index: -1;
 }
 
-.get-logispeed-three__left {
+.get-brotrelocation-three__left {
   position: relative;
   display: block;
   margin-right: 70px;
 }
 
-.get-logispeed-three__img {
+.get-brotrelocation-three__img {
   position: relative;
   display: block;
   z-index: 1;
@@ -15812,21 +15812,21 @@ body.boxed-wrapper {
 
 
 
-.get-logispeed-three__img img {
+.get-brotrelocation-three__img img {
   width: 100%;
 }
 
-.get-logispeed-three__right {
+.get-brotrelocation-three__right {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__main-tab-box {
+.get-brotrelocation-three__main-tab-box {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons {
+.get-brotrelocation-three__main-tab-box .tab-buttons {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -15835,16 +15835,16 @@ body.boxed-wrapper {
   left: -137px;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn {
   position: relative;
   display: inline-block;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn+.tab-btn {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn+.tab-btn {
   margin-top: 10px;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box {
   position: relative;
   display: flex;
   align-items: center;
@@ -15857,7 +15857,7 @@ body.boxed-wrapper {
   z-index: 1;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box:after {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box:after {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -15873,12 +15873,12 @@ body.boxed-wrapper {
   z-index: -1;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box:after,
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box:after {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box:after,
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box:after {
   transform: scale(1.0);
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box span {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box span {
   position: relative;
   display: inline-block;
   font-size: 32px;
@@ -15887,12 +15887,12 @@ body.boxed-wrapper {
   transition: all 500ms ease;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box span,
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box span {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box span,
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box span {
   color: var(--logi-white);
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text {
   position: absolute;
   top: 0;
   right: 100%;
@@ -15910,13 +15910,13 @@ body.boxed-wrapper {
   z-index: -1;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box .overlay-text,
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box .overlay-text {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn:hover .icon-box .overlay-text,
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn.active-btn .icon-box .overlay-text {
   opacity: 1;
   transform: translateX(0px);
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text p {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text p {
   position: relative;
   display: inline-block;
   background-color: #ffffff;
@@ -15931,7 +15931,7 @@ body.boxed-wrapper {
   transition-delay: 0.1s;
 }
 
-.get-logispeed-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text p:before {
+.get-brotrelocation-three__main-tab-box .tab-buttons .tab-btn .icon-box .overlay-text p:before {
   content: "";
   position: absolute;
   top: 50%;
@@ -15942,12 +15942,12 @@ body.boxed-wrapper {
   border-bottom: 8px solid transparent;
 }
 
-.get-logispeed-three__main-tab-box .tabs-content {
+.get-brotrelocation-three__main-tab-box .tabs-content {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__main-tab-box .tabs-content .tab {
+.get-brotrelocation-three__main-tab-box .tabs-content .tab {
   position: relative;
   display: none;
   -webkit-transform: translateY(35px);
@@ -15961,7 +15961,7 @@ body.boxed-wrapper {
   z-index: 10;
 }
 
-.get-logispeed-three__main-tab-box .tabs-content .tab.active-tab {
+.get-brotrelocation-three__main-tab-box .tabs-content .tab.active-tab {
   display: block;
   margin-top: 0px;
   -webkit-transform: translateY(0px);
@@ -15969,31 +15969,31 @@ body.boxed-wrapper {
   transform: translateY(0px);
 }
 
-.get-logispeed-three__content {
+.get-brotrelocation-three__content {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__form {
+.get-brotrelocation-three__form {
   position: relative;
   display: block;
       background: #f7f7f7;
     padding: 20px;
 }
 
-.get-logispeed-three__content-box {
+.get-brotrelocation-three__content-box {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__input-box {
+.get-brotrelocation-three__input-box {
   position: relative;
   display: block;
   margin-bottom: 20px;
 }
 
-.get-logispeed-three__input-box input[type="text"],
-.get-logispeed-three__input-box input[type="email"] {
+.get-brotrelocation-three__input-box input[type="text"],
+.get-brotrelocation-three__input-box input[type="email"] {
 height: 50px;
     width: 100%;
     border: 0;
@@ -16007,18 +16007,18 @@ height: 50px;
     box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.05);
 }
 
-.get-logispeed-three__input-box .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+.get-brotrelocation-three__input-box .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
   position: relative;
   display: block;
   width: 100% !important;
 
 }
 
-.get-logispeed-three__input-box .bootstrap-select>.dropdown-toggle::after {
+.get-brotrelocation-three__input-box .bootstrap-select>.dropdown-toggle::after {
   display: none;
 }
 
-.get-logispeed-three__input-box .bootstrap-select>.dropdown-toggle {
+.get-brotrelocation-three__input-box .bootstrap-select>.dropdown-toggle {
   position: relative;
   height: 50px;
   outline: none !important;
@@ -16041,7 +16041,7 @@ height: 50px;
   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.05);
 }
 
-.get-logispeed-three__input-box .bootstrap-select>.dropdown-toggle:before {
+.get-brotrelocation-three__input-box .bootstrap-select>.dropdown-toggle:before {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -16053,21 +16053,21 @@ height: 50px;
   color: var(--logi-gray);
 }
 
-.get-logispeed-three__input-box .bootstrap-select .dropdown-menu>li.selected>a {
+.get-brotrelocation-three__input-box .bootstrap-select .dropdown-menu>li.selected>a {
   background: var(--logi-black);
 }
 
-.get-logispeed-three__input-box .bootstrap-select .dropdown-menu>li>a:hover {
+.get-brotrelocation-three__input-box .bootstrap-select .dropdown-menu>li>a:hover {
   background: var(--logi-white);
   color: var(--logi-base);
   cursor: pointer;
 }
 
-.get-logispeed-three__input-box .bootstrap-select .dropdown-menu {
+.get-brotrelocation-three__input-box .bootstrap-select .dropdown-menu {
   border-radius: 0;
 }
 
-.get-logispeed-three__progress {
+.get-brotrelocation-three__progress {
   position: relative;
   display: block;
   width: 100%;
@@ -16075,12 +16075,12 @@ height: 50px;
   margin-bottom: 30px;
 }
 
-.get-logispeed-three__progress-single {
+.get-brotrelocation-three__progress-single {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__progress-title {
+.get-brotrelocation-three__progress-title {
   font-size: 16px;
   line-height: 26px;
   margin-bottom: 15px;
@@ -16088,7 +16088,7 @@ height: 50px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.get-logispeed-three__progress .bar {
+.get-brotrelocation-three__progress .bar {
   position: relative;
   width: 100%;
   height: 12px;
@@ -16097,7 +16097,7 @@ height: 50px;
   border: 0
 }
 
-.get-logispeed-three__progress .bar-inner {
+.get-brotrelocation-three__progress .bar-inner {
   position: relative;
   display: block;
   width: 0px;
@@ -16111,24 +16111,24 @@ height: 50px;
   transition: all 1500ms ease;
 }
 
-.get-logispeed-three .get-insurance__progress-range .irs--flat .irs-bar {
+.get-brotrelocation-three .get-insurance__progress-range .irs--flat .irs-bar {
   background-image: none;
   background-color: var(--logi-base);
 }
 
-.get-logispeed-three .get-insurance__progress-range .irs--flat .irs-bar {
+.get-brotrelocation-three .get-insurance__progress-range .irs--flat .irs-bar {
   border-radius: 0;
 }
 
-.get-logispeed-three .get-insurance__progress-range .irs--flat .irs-line {
+.get-brotrelocation-three .get-insurance__progress-range .irs--flat .irs-line {
   border-radius: 0;
 }
 
-.get-logispeed-three .get-insurance__progress {
+.get-brotrelocation-three .get-insurance__progress {
   margin-bottom: 12px;
 }
 
-.get-logispeed-three__progress .count-text {
+.get-brotrelocation-three__progress .count-text {
   position: absolute;
   right: -30px;
   bottom: -8px;
@@ -16147,29 +16147,29 @@ height: 50px;
   transition: all 500ms ease;
 }
 
-.get-logispeed-three__progress .bar-inner.counted .count-text {
+.get-brotrelocation-three__progress .bar-inner.counted .count-text {
   opacity: 1;
 }
 
-.get-logispeed-three__balance-box {
+.get-brotrelocation-three__balance-box {
   position: absolute;
   top: 0;
   right: 0;
 }
 
-.get-logispeed-three__balance {
+.get-brotrelocation-three__balance {
   font-size: 16px;
   color: var(--logi-black);
   font-weight: 700;
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.get-logispeed-three__content-bottom {
+.get-brotrelocation-three__content-bottom {
   position: relative;
   display: block;
 }
 
-.get-logispeed-three__btn {
+.get-brotrelocation-three__btn {
   border: none;
 }
 
@@ -20000,19 +20000,19 @@ height: 50px;
 /*--------------------------------------------------------------
 # Insurance Details
 --------------------------------------------------------------*/
-.logispeed-details {
+.brotrelocation-details {
   position: relative;
   display: block;
   padding: 120px 0 120px;
   z-index: 1;
 }
 
-.logispeed-details__left {
+.brotrelocation-details__left {
   position: relative;
   display: block;
 }
 
-.logispeed-details__services-box {
+.brotrelocation-details__services-box {
   position: relative;
   display: block;
   margin-bottom: 56px;
@@ -20021,19 +20021,19 @@ height: 50px;
   border-radius: 10px;
 }
 
-.logispeed-details__services-list {
+.brotrelocation-details__services-list {
   position: relative;
   display: block;
 }
 
-.logispeed-details__services-list li {
+.brotrelocation-details__services-list li {
   position: relative;
   display: block;
   border: 1px solid #000;
     margin-bottom: 10px;
 }
 
-.logispeed-details__services-list li a {
+.brotrelocation-details__services-list li a {
   position: relative;
   display: flex;
   align-items: center;
@@ -20049,41 +20049,41 @@ height: 50px;
   transition: all 500ms ease;
 }
 
-.logispeed-details__services-list li a:hover {
+.brotrelocation-details__services-list li a:hover {
   color: var(--logi-base);
   text-shadow: 0.5px 0 0 rgba(1, 95, 201, .8);
 }
 
-.logispeed-details__services-list li.current a {
+.brotrelocation-details__services-list li.current a {
   color: var(--logi-base);
   text-shadow: 0.5px 0 0 rgba(1, 95, 201, .8);
 }
 
-.logispeed-details__services-list li a span {
+.brotrelocation-details__services-list li a span {
   color: var(--logi-gray);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
 
-.logispeed-details__services-list li a:hover span {
+.brotrelocation-details__services-list li a:hover span {
   color: var(--logi-primary);
 }
 
-.logispeed-details__services-list li.current a span {
+.brotrelocation-details__services-list li.current a span {
   color: var(--logi-primary);
 }
 
-.logispeed-details__download {
+.brotrelocation-details__download {
   position: relative;
   display: block;
   margin-bottom: 20px;
 }
 
-.logispeed-details__download .row {
+.brotrelocation-details__download .row {
   --bs-gutter-x: 10px;
 }
 
-.logispeed-details__download-title {
+.brotrelocation-details__download-title {
   font-size: 24px;
   font-weight: 700;
   line-height: 34px;
@@ -20091,7 +20091,7 @@ height: 50px;
   margin-bottom: 25px;
 }
 
-.logispeed-details__download-single {
+.brotrelocation-details__download-single {
   position: relative;
   display: block;
   border: 1px solid var(--logi-bdr-color);
@@ -20101,7 +20101,7 @@ height: 50px;
   margin-bottom: 30px;
 }
 
-.logispeed-details__download-icon {
+.brotrelocation-details__download-icon {
   position: relative;
   display: flex;
   align-items: center;
@@ -20115,11 +20115,11 @@ height: 50px;
   transition: all 500ms ease;
 }
 
-.logispeed-details__download-icon:hover {
+.brotrelocation-details__download-icon:hover {
   background-color: var(--logi-black);
 }
 
-.logispeed-details__download-icon span {
+.brotrelocation-details__download-icon span {
   position: relative;
   display: inline-block;
   font-size: 24px;
@@ -20128,17 +20128,17 @@ height: 50px;
   transition: all 500ms ease;
 }
 
-.logispeed-details__download-icon:hover span {
+.brotrelocation-details__download-icon:hover span {
   color: var(--logi-white);
 }
 
-.logispeed-details__download-mb {
+.brotrelocation-details__download-mb {
   font-size: 12px;
   line-height: 18px;
   letter-spacing: 0.1em;
 }
 
-.logispeed-details__download-title-2 {
+.brotrelocation-details__download-title-2 {
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
@@ -20146,29 +20146,29 @@ height: 50px;
   margin-bottom: 15px;
 }
 
-.logispeed-details__download-title-2 a {
+.brotrelocation-details__download-title-2 a {
   color: var(--logi-black);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
 
-.logispeed-details__download-title-2 a:hover {
+.brotrelocation-details__download-title-2 a:hover {
   color: var(--logi-primary);
 }
 
-.logispeed-details__download-btn-box {
+.brotrelocation-details__download-btn-box {
   position: relative;
   display: block;
 }
 
-.logispeed-details__download-btn {
+.brotrelocation-details__download-btn {
   font-size: 14px;
   font-weight: 700;
   letter-spacing: var(--logi-letter-spacing);
   padding: 7px 20px 8px;
 }
 
-.logispeed-details__need-help {
+.brotrelocation-details__need-help {
   position: relative;
   display: block;
   padding: 50px 50px 46px;
@@ -20178,7 +20178,7 @@ height: 50px;
   border-radius: var(--logi-bdr-radius);
 }
 
-.logispeed-details__need-help-bg {
+.brotrelocation-details__need-help-bg {
   position: absolute;
   top: 0;
   left: 0;
@@ -20192,7 +20192,7 @@ height: 50px;
   z-index: -1;
 }
 
-.logispeed-details__need-help-icon {
+.brotrelocation-details__need-help-icon {
   height: 85px;
   width: 85px;
   background-color: var(--logi-primary);
@@ -20211,22 +20211,22 @@ height: 50px;
   transition: all 500ms ease;
 }
 
-.logispeed-details__need-help-icon:hover {
+.brotrelocation-details__need-help-icon:hover {
   background-color: var(--logi-white);
 }
 
-.logispeed-details__need-help-icon span {
+.brotrelocation-details__need-help-icon span {
   font-size: 37px;
   color: var(--logi-white);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
 
-.logispeed-details__need-help-icon:hover span {
+.brotrelocation-details__need-help-icon:hover span {
   color: var(--logi-black);
 }
 
-.logispeed-details__need-help-title {
+.brotrelocation-details__need-help-title {
   font-size: 26px;
   color: var(--logi-white);
   line-height: 34px;
@@ -20234,13 +20234,13 @@ height: 50px;
   letter-spacing: -0.04em;
 }
 
-.logispeed-details__need-help-contact {
+.brotrelocation-details__need-help-contact {
   position: relative;
   display: block;
   margin-top: 30px;
 }
 
-.logispeed-details__need-help-contact a {
+.brotrelocation-details__need-help-contact a {
   font-size: 16px;
   color: var(--logi-white);
   font-weight: 700;
@@ -20249,11 +20249,11 @@ height: 50px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__need-help-contact a:hover {
+.brotrelocation-details__need-help-contact a:hover {
   color: var(--logi-primary);
 }
 
-.logispeed-details__need-help-contact p {
+.brotrelocation-details__need-help-contact p {
   font-size: 14px;
   color: var(--logi-white);
   margin: 0;
@@ -20261,22 +20261,22 @@ height: 50px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__right {
+.brotrelocation-details__right {
   position: relative;
   display: block;
 }
 
-.logispeed-details__img-1 {
+.brotrelocation-details__img-1 {
   position: relative;
   display: block;
 }
 
-.logispeed-details__img-1 img {
+.brotrelocation-details__img-1 img {
   width: 100%;
   border-radius: var(--logi-bdr-radius);
 }
 
-.logispeed-details__age-box {
+.brotrelocation-details__age-box {
   position: relative;
   display: flex;
   align-items: center;
@@ -20287,19 +20287,19 @@ height: 50px;
   border-radius: var(--logi-bdr-radius);
 }
 
-.logispeed-details__age-title-box {
+.brotrelocation-details__age-title-box {
   position: relative;
   display: block;
 }
 
-.logispeed-details__age-title {
+.brotrelocation-details__age-title {
   font-size: 20px;
   font-weight: 700;
   line-height: 30px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__age-list {
+.brotrelocation-details__age-list {
   position: relative;
   display: flex;
   align-items: center;
@@ -20307,29 +20307,29 @@ height: 50px;
   margin-left: 30px;
 }
 
-.logispeed-details__age-list li {
+.brotrelocation-details__age-list li {
   position: relative;
   display: block;
 }
 
-.logispeed-details__age-list li+li {
+.brotrelocation-details__age-list li+li {
   margin-left: 35px;
 }
 
-.logispeed-details__age-list li p {
+.brotrelocation-details__age-list li p {
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__age-list li p span {
+.brotrelocation-details__age-list li p span {
   font-weight: 700;
   color: var(--logi-base);
 }
 
-.logispeed-details__text-1 {
+.brotrelocation-details__text-1 {
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__text-2 {
+.brotrelocation-details__text-2 {
   font-size: 18px;
   font-weight: 700;
   line-height: 30px;
@@ -20339,30 +20339,30 @@ height: 50px;
   margin-bottom: 33px;
 }
 
-.logispeed-details__text-3 {
+.brotrelocation-details__text-3 {
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__opportunities {
+.brotrelocation-details__opportunities {
   position: relative;
   display: flex;
   margin-top: 55px;
   margin-bottom: 60px;
 }
 
-.logispeed-details__opportunities-img {
+.brotrelocation-details__opportunities-img {
   position: relative;
   display: block;
   max-width: 370px;
   width: 100%;
 }
 
-.logispeed-details__opportunities-img img {
+.brotrelocation-details__opportunities-img img {
   width: 100%;
   border-radius: 20px;
 }
 
-.logispeed-details__opportunities-hope {
+.brotrelocation-details__opportunities-hope {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -20375,7 +20375,7 @@ height: 50px;
   border-bottom-right-radius: 20px;
 }
 
-.logispeed-details__opportunities-hope p {
+.brotrelocation-details__opportunities-hope p {
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -20384,7 +20384,7 @@ height: 50px;
   color: var(--logi-white);
 }
 
-.logispeed-details__opportunities-points-box {
+.brotrelocation-details__opportunities-points-box {
   position: relative;
   display: block;
   max-width: 355px;
@@ -20393,35 +20393,35 @@ height: 50px;
   margin-top: -9px;
 }
 
-.logispeed-details__opportunities-points-title {
+.brotrelocation-details__opportunities-points-title {
   font-size: 30px;
   font-weight: 700;
   line-height: 40px;
   letter-spacing: -0.04em;
 }
 
-.logispeed-details__opportunities-points-text {
+.brotrelocation-details__opportunities-points-text {
   letter-spacing: var(--logi-letter-spacing);
   margin-bottom: 26px;
   margin-top: 13px;
 }
 
-.logispeed-details__opportunities-list {
+.brotrelocation-details__opportunities-list {
   position: relative;
   display: block;
 }
 
-.logispeed-details__opportunities-list li {
+.brotrelocation-details__opportunities-list li {
   position: relative;
   display: flex;
   align-items: center;
 }
 
-.logispeed-details__opportunities-list li+li {
+.brotrelocation-details__opportunities-list li+li {
   margin-top: 12px;
 }
 
-.logispeed-details__opportunities-list li .icon {
+.brotrelocation-details__opportunities-list li .icon {
   position: relative;
   display: flex;
   align-items: center;
@@ -20432,18 +20432,18 @@ height: 50px;
   border-radius: 50%;
 }
 
-.logispeed-details__opportunities-list li .icon span {
+.brotrelocation-details__opportunities-list li .icon span {
   position: relative;
   display: inline-block;
   font-size: 9px;
   color: var(--logi-white);
 }
 
-.logispeed-details__opportunities-list li .text {
+.brotrelocation-details__opportunities-list li .text {
   margin-left: 15px;
 }
 
-.logispeed-details__opportunities-list li .text p {
+.brotrelocation-details__opportunities-list li .text p {
   font-size: 18px;
   font-weight: 500;
   letter-spacing: var(--logi-letter-spacing);
@@ -20451,12 +20451,12 @@ height: 50px;
   color: var(--logi-black);
 }
 
-.logispeed-details__points {
+.brotrelocation-details__points {
   position: relative;
   display: block;
 }
 
-.logispeed-details__points li {
+.brotrelocation-details__points li {
   position: relative;
   display: flex;
   align-items: center;
@@ -20466,11 +20466,11 @@ height: 50px;
   padding: 26px 50px 27px;
 }
 
-.logispeed-details__points li+li {
+.brotrelocation-details__points li+li {
   margin-top: 10px;
 }
 
-.logispeed-details__points-left {
+.brotrelocation-details__points-left {
   position: relative;
   display: flex;
   align-items: center;
@@ -20478,7 +20478,7 @@ height: 50px;
   width: 100%;
 }
 
-.logispeed-details__points-left::before {
+.brotrelocation-details__points-left::before {
   position: absolute;
   top: -7px;
   right: 0;
@@ -20488,19 +20488,19 @@ height: 50px;
   background-color: var(--logi-bdr-color);
 }
 
-.logispeed-details__points-icon {
+.brotrelocation-details__points-icon {
   position: relative;
   display: inline-block;
 }
 
-.logispeed-details__points-icon span {
+.brotrelocation-details__points-icon span {
   position: relative;
   display: inline-block;
   font-size: 44px;
   color: var(--logi-primary);
 }
 
-.logispeed-details__points-title {
+.brotrelocation-details__points-title {
   font-size: 20px;
   font-weight: 700;
   line-height: 24px;
@@ -20508,15 +20508,15 @@ height: 50px;
   margin-left: 33px;
 }
 
-.logispeed-details__points-right {
+.brotrelocation-details__points-right {
   padding-left: 40px;
 }
 
-.logispeed-details__points-right p {
+.brotrelocation-details__points-right p {
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__title-1 {
+.brotrelocation-details__title-1 {
   font-size: 30px;
   font-weight: 700;
   line-height: 40px;
@@ -20525,11 +20525,11 @@ height: 50px;
   margin-bottom: 23px;
 }
 
-.logispeed-details__text-4 {
+.brotrelocation-details__text-4 {
   letter-spacing: var(--logi-letter-spacing);
 }
 
-.logispeed-details__email-box {
+.brotrelocation-details__email-box {
   position: relative;
   display: flex;
   align-items: center;
@@ -20538,14 +20538,14 @@ height: 50px;
   margin-top: 35px;
 }
 
-.logispeed-details__email-input-box {
+.brotrelocation-details__email-input-box {
   position: relative;
   display: block;
   max-width: 353px;
   width: 100%;
 }
 
-.logispeed-details__email-input-box input[type="text"] {
+.brotrelocation-details__email-input-box input[type="text"] {
   height: 60px;
   width: 100%;
   background-color: var(--logi-extra);
@@ -20559,7 +20559,7 @@ height: 50px;
   border-radius: var(--logi-bdr-radius);
 }
 
-.logispeed-details__subscribe-btn {
+.brotrelocation-details__subscribe-btn {
   outline: none;
   border: none;
   background-color: var(--logi-base);
