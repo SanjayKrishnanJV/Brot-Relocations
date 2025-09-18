@@ -45,12 +45,13 @@
   --logi-gray-rgb: 105, 110, 119;
   --logi-white: #ffffff;
   --logi-white-rgb: 255, 255, 255;
-  --logi-base:  #f9b71a;
+  --logi-base:  #248431;
   /* --logi-base: #ef3938; */
   --logi-base-rgb: 1, 95, 201;
   --logi-black: #101218;
+  --logi-button:#ecbb00;
   --logi-black-rgb: 22, 36, 61;
-  --logi-primary: #212c65;
+  --logi-primary: #ecbb00;
   --logi-primary-rgb: 12, 224, 255;
   --logi-extra: #f2f5f9;
   --logi-extra-rgb: 242, 245, 249;
@@ -406,7 +407,7 @@ ul {
   width: 100%;
   height: 100%;
   content: '';
-  background-color: var(--logi-black);
+  background-color: var(--logi-button);
   transform: translate3d(0, -100%, 0);
   transition: transform 0.4s cubic-bezier(0.1, 0, 0.3, 1);
   z-index: -1;
@@ -1749,7 +1750,7 @@ ul {
   position: relative;
   display: block;
   padding: 29px 0 64px;
-  background-color: #101218;
+  background-color: #ffffff;
   box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);
 }
 
@@ -1803,20 +1804,20 @@ ul {
 .main-header-two__top-details-list li .text h5 {
   font-size: 16px;
   font-weight: 700;
-  color: var(--logi-white);
+  color: #000000;
   line-height: 24px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
 .main-header-two__top-details-list li .text p {
   font-size: 16px;
-  color: #fff;
+  color: #000000;
   line-height: 24px;
   letter-spacing: var(--logi-letter-spacing);
 }
 
 .main-header-two__top-details-list li .text p a {
-  color: #fff;
+  color: #000000;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
@@ -1838,6 +1839,7 @@ ul {
   display: block;
   background-color: var(--logi-white);
   padding-left: 40px;
+  border-color: black;
   border-radius: var(--logi-bdr-radius);
   box-shadow: 0px 10px 60px 0px rgb(0 0 0 / 5%);
 }
@@ -1912,6 +1914,7 @@ ul {
 .stricky-header .main-menu-two__wrapper-inner {
   display: block;
   background-color: var(--logi-white);
+  border-color: #000;
   padding-left: 0px;
   border-radius: 0;
   box-shadow: none;
@@ -3333,7 +3336,7 @@ z-index: -1;
   right: 0;
   height: 50px;
   width: 50px;
-  background-color: #212c65;
+  background-color: var(--logi-base);
   box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.05);
   border-radius: 0;
   display: flex;
@@ -3345,7 +3348,7 @@ z-index: -1;
 }
 
 .services-one__single:hover .services-one__icon {
-  background-color: var(--logi-base);
+  background-color: var(--logi-button);
 }
 
 .services-one__icon span {
