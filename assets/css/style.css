@@ -45,13 +45,13 @@
   --logi-gray-rgb: 105, 110, 119;
   --logi-white: #ffffff;
   --logi-white-rgb: 255, 255, 255;
-  --logi-base:  #248431;
+  --logi-base:  #116194;
   /* --logi-base: #ef3938; */
   --logi-base-rgb: 1, 95, 201;
   --logi-black: #101218;
-  --logi-button:#ecbb00;
+  --logi-button:#033357;
   --logi-black-rgb: 22, 36, 61;
-  --logi-primary: #ecbb00;
+  --logi-primary: #033357;
   --logi-primary-rgb: 12, 224, 255;
   --logi-extra: #f2f5f9;
   --logi-extra-rgb: 242, 245, 249;
@@ -965,7 +965,7 @@ ul {
 .main-menu .main-menu__list>li:hover>a,
 .stricky-header .main-menu__list>li.current>a,
 .stricky-header .main-menu__list>li:hover>a {
-  color: #0b904c;
+  color: #116194;
 }
 
 .main-menu .main-menu__list>li>ul,
@@ -1790,7 +1790,7 @@ ul {
   align-items: center;
   font-size: 39px;
   background: rgb(1, 200, 248);
-  background: #0b904c;
+  background: #033357;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
